@@ -1,359 +1,476 @@
-# Softrenix Technologies
+![Softrenix Technologies](https://raw.githubusercontent.com/Softrenix-Technologies/.github/main/profile/softrenix-github-banner.png)
 
-### Engineering Beyond Boundaries. 🚀
+<h1 align="center">🚀 Softrenix Technologies</h1>
 
-Softrenix Technologies is a software development and technology company focused on building reliable, scalable, and practical digital solutions for modern businesses.
+<h3 align="center">Engineering Beyond Boundaries.</h3>
 
-We combine software engineering, cloud infrastructure, automation, artificial intelligence, and modern application development to transform ideas and business requirements into technology that delivers real-world value.
+<p align="center">
+<b>Software Development • Cloud • DevOps • AI & ML • Automation • Web & Mobile • E-Commerce</b>
+</p>
+
+<p align="left">
+<b>Softrenix Technologies</b> is a software development and technology company focused on building reliable, scalable, and practical digital solutions for modern businesses.
+</p>
+
+<p align="left">
+We combine <b>software engineering, cloud computing, DevOps, artificial intelligence, automation, and modern application development</b> to transform ideas and business requirements into technology that delivers real-world value.
+</p>
+
+<p align="left">
+💡 Our approach is simple — understand the problem, engineer the right solution, build it reliably, and design it to grow.
+</p>
+
+<p align="left">
+🌐 Website: <b>https://softrenix.com</b><br>
+📫 Email: <b>info@softrenix.com</b>
+</p>
 
 ---
 
-## 🌐 Who We Are
+<h2 align="left">🏢 About Softrenix</h2>
 
-At Softrenix Technologies, we believe technology should solve problems — not create unnecessary complexity.
+<p align="left">
+At Softrenix Technologies, we believe technology should solve problems rather than create unnecessary complexity.
+</p>
 
-From a business idea to a production-ready platform, we work across the complete technology lifecycle: understanding requirements, designing solutions, developing applications, deploying infrastructure, and continuously improving systems.
+<p align="left">
+From business websites and custom software to cloud infrastructure, intelligent automation, and AI-powered applications, we work across the technology lifecycle — from <b>idea and architecture to development, deployment, and continuous improvement.</b>
+</p>
 
-Our focus is on building technology that is:
+<p align="left">
+Our solutions are built with a focus on:
+</p>
 
-- Reliable
-- Scalable
-- Secure
-- Maintainable
-- Performance-oriented
-- Business-focused
-- Designed for long-term growth
+<p align="left">
+⚡ Reliability<br>
+📈 Scalability<br>
+🔐 Security<br>
+🧩 Maintainability<br>
+🚀 Performance<br>
+💡 Innovation<br>
+🎯 Business Value
+</p>
 
-> **Built on Reliability and Excellence, driven by New ideas and Innovation, with Limitless Possibilities.**
+<p align="center">
+<b>Built on Reliability and Excellence, driven by New ideas and Innovation, with Limitless Possibilities.</b>
+</p>
 
 ---
 
-## 💡 What We Build
+<h2 align="left">💼 What We Do</h2>
 
-### 💻 Software Development
+<h3 align="left">💻 Software Development</h3>
 
-Custom software solutions designed around specific business requirements, workflows, and operational needs.
+<p align="left">
+We build custom software solutions around real business requirements and workflows.
+</p>
 
-- Custom business applications
-- SaaS platforms
-- PaaS solutions
-- Enterprise applications
-- Backend systems
-- APIs & integrations
-- Database-driven applications
+<p align="left">
+🔹 Custom Software<br>
+🔹 SaaS & PaaS Platforms<br>
+🔹 Business Applications<br>
+🔹 Backend Systems<br>
+🔹 REST APIs<br>
+🔹 Database-driven Applications
+</p>
 
-### 🌐 Web & Application Development
+<h3 align="left">🌐 Web & Application Development</h3>
 
-Modern, responsive, and scalable web experiences built with performance and usability in mind.
+<p align="left">
+Modern, responsive, and scalable digital experiences designed for performance and usability.
+</p>
 
-- Business websites
-- Web applications
-- Customer portals
-- Admin dashboards
-- REST APIs
-- Full-stack applications
+<p align="left">
+🔹 Business Websites<br>
+🔹 Web Applications<br>
+🔹 Admin Dashboards<br>
+🔹 Customer Portals<br>
+🔹 Full-Stack Applications<br>
+🔹 API Integrations
+</p>
 
-### 📱 Mobile App Development
+<h3 align="left">📱 Mobile App Development</h3>
 
-Mobile experiences designed for modern Android and iOS users.
+<p align="left">
+Mobile applications designed to deliver reliable experiences across modern devices.
+</p>
 
-- Android applications
-- iOS applications
-- Cross-platform applications
-- Mobile APIs
-- Backend integrations
+<p align="left">
+🔹 Android Applications<br>
+🔹 iOS Applications<br>
+🔹 Cross-Platform Applications<br>
+🔹 Mobile APIs<br>
+🔹 Backend Integration
+</p>
 
-### ☁️ Cloud Services
+<h3 align="left">☁️ Cloud Services</h3>
 
-Cloud infrastructure designed to support reliable application deployment and business growth.
+<p align="left">
+Cloud infrastructure engineered for reliability, performance, scalability, and growth.
+</p>
 
-- Cloud architecture
-- AWS infrastructure
-- Compute & storage
-- Cloud databases
-- Infrastructure optimization
-- Monitoring & deployment
+<p align="left">
+🔹 Cloud Architecture<br>
+🔹 AWS Infrastructure<br>
+🔹 Compute & Storage<br>
+🔹 Cloud Databases<br>
+🔹 Infrastructure Optimization<br>
+🔹 Monitoring & Deployment
+</p>
 
-### ⚙️ DevOps & Infrastructure
+<h3 align="left">⚙️ DevOps & Infrastructure</h3>
 
-We help build efficient development and deployment workflows.
+<p align="left">
+We build efficient development, deployment, and infrastructure workflows.
+</p>
 
-- CI/CD pipelines
-- Docker & containerization
-- Linux infrastructure
-- Infrastructure automation
-- Deployment automation
-- Monitoring & observability
-- Server management
+<p align="left">
+🔹 CI/CD Pipelines<br>
+🔹 Docker & Containerization<br>
+🔹 Linux Infrastructure<br>
+🔹 Infrastructure Automation<br>
+🔹 Deployment Automation<br>
+🔹 Monitoring & Observability
+</p>
 
-### 🤖 AI & Machine Learning
+<h3 align="left">🤖 AI & Machine Learning</h3>
 
-Practical AI solutions focused on useful business applications rather than technology for its own sake.
+<p align="left">
+We explore and develop practical AI solutions that solve meaningful business and engineering problems.
+</p>
 
-- AI-powered applications
-- Machine learning solutions
-- Intelligent automation
-- AI assistants
-- Recommendation systems
-- Data-driven applications
-- AI integrations
+<p align="left">
+🔹 AI-powered Applications<br>
+🔹 Machine Learning Systems<br>
+🔹 LLM Integrations<br>
+🔹 Intelligent Assistants<br>
+🔹 Recommendation Systems<br>
+🔹 AI-powered Automation
+</p>
 
-### 🔄 Automation
+<h3 align="left">🔄 Automation Services</h3>
 
-We automate repetitive processes and connect systems to improve efficiency.
+<p align="left">
+We automate repetitive workflows and connect systems to improve efficiency and productivity.
+</p>
 
-- Business process automation
-- Workflow automation
-- API integrations
-- Automated reporting
-- Data processing
-- Scheduled workflows
+<p align="left">
+🔹 Business Process Automation<br>
+🔹 Workflow Automation<br>
+🔹 API Integrations<br>
+🔹 Automated Reporting<br>
+🔹 Data Processing<br>
+🔹 Scheduled Workflows
+</p>
 
-### 🛒 E-Commerce
+<h3 align="left">🛒 E-Commerce Development</h3>
 
-Technology solutions for businesses looking to build and scale digital commerce.
+<p align="left">
+Digital commerce solutions designed around business requirements and customer experience.
+</p>
 
-- E-commerce websites
-- Product management systems
-- Order management
-- Payment integrations
-- Customer portals
-- Inventory integrations
+<p align="left">
+🔹 E-Commerce Websites<br>
+🔹 Product Management<br>
+🔹 Order Management<br>
+🔹 Payment Integration<br>
+🔹 Customer Portals<br>
+🔹 Inventory Integration
+</p>
 
-### 🧠 IT Consulting
+<h3 align="left">🧠 IT Consulting</h3>
 
-Technology guidance for businesses planning, developing, or modernizing their digital infrastructure.
+<p align="left">
+Technology guidance for businesses planning, developing, modernizing, or scaling their digital systems.
+</p>
 
-- Technology strategy
-- System architecture
-- Cloud planning
-- Digital transformation
-- Application modernization
-- Infrastructure planning
+<p align="left">
+🔹 Technology Strategy<br>
+🔹 System Architecture<br>
+🔹 Cloud Planning<br>
+🔹 Digital Transformation<br>
+🔹 Application Modernization<br>
+🔹 Infrastructure Planning
+</p>
 
-### 🚀 Hosting & Deployment
+<h3 align="left">🚀 Hosting & Deployment</h3>
 
+<p align="left">
 From development environments to production infrastructure, we help applications reach users reliably.
+</p>
 
-- Application deployment
-- Server configuration
-- Domain & DNS setup
-- SSL/TLS
-- Web server configuration
-- Production environments
-
----
-
-# 🛠️ Technology
-
-We work with a broad range of technologies depending on the requirements of each project.
-
-### Languages
-
-`Python` `JavaScript` `PHP` `HTML` `CSS` `SQL` `Bash` `Go`
-
-### Web & Application Development
-
-`React` `Node.js` `Flask` `FastAPI` `PHP` `REST APIs`
-
-### Databases
-
-`MySQL` `PostgreSQL` `MongoDB`
-
-### Cloud & Infrastructure
-
-`AWS` `Linux` `Docker` `Nginx`
-
-### DevOps
-
-`Git` `GitHub` `GitHub Actions` `CI/CD` `Docker`
-
-### AI & Automation
-
-`Python` `Machine Learning` `LLM Integration` `Workflow Automation` `APIs`
-
-> Our technology stack evolves with every project. We choose technologies based on requirements, scalability, maintainability, and long-term value.
+<p align="left">
+🔹 Application Deployment<br>
+🔹 Linux Server Configuration<br>
+🔹 Nginx Configuration<br>
+🔹 Domain & DNS Setup<br>
+🔹 SSL/TLS Configuration<br>
+🔹 Production Infrastructure
+</p>
 
 ---
 
-# 🏗️ How We Work
+<h2 align="left">🛠️ Technology Stack</h2>
 
-We follow a practical engineering approach from idea to production.
+<h3 align="left">☁️ Cloud & DevOps</h3>
 
-```text
-┌─────────────────────┐
-│  Understand         │
-│  Requirements       │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│  Plan & Architect   │
-│  The Solution       │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│  Design & Develop   │
-│  The Application    │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│  Test & Optimize    │
-│  Quality & Security │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│  Deploy             │
-│  Production         │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│  Monitor & Improve  │
-│  Continuously       │
-└─────────────────────┘
-```
+<p align="left">
 
-Our goal is not simply to build software.
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+</a>
 
-Our goal is to build software that continues to create value after it goes live.
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
+</a>
 
----
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+</a>
 
-# 📦 Our Projects
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45"/>
+</a>
 
-Our GitHub organization contains projects covering different areas of software engineering and technology.
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/>
+</a>
 
-Some projects may include:
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/>
+</a>
 
-- 🌐 Web applications
-- 📱 Mobile applications
-- ☁️ Cloud infrastructure
-- ⚙️ DevOps automation
-- 🤖 AI & ML experiments
-- 🔄 Automation systems
-- 🧩 APIs & backend services
-- 🛒 E-commerce platforms
-- 🧪 Research & experimental projects
+</p>
 
-Each repository contains its own documentation, setup instructions, technology stack, and development information where applicable.
+<h3 align="left">💻 Languages & Development</h3>
 
-Explore our repositories to see what we are building.
+<p align="left">
 
----
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+</a>
 
-# 🔐 Engineering Principles
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+</a>
 
-### Reliability First
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+</a>
 
-Systems should work consistently and predictably.
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
+</a>
 
-### Security by Design
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+</a>
 
-Security should be considered throughout development rather than added as an afterthought.
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+</a>
 
-### Scalability
+</p>
 
-Solutions should be capable of evolving as requirements and users grow.
+<h3 align="left">🐧 Infrastructure & Systems</h3>
 
-### Simplicity
+<p align="left">
 
-Complexity should have a reason. We prefer clear and maintainable solutions.
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+</a>
 
-### Automation
+<a href="https://nginx.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
+</a>
 
-Repetitive work should be automated whenever practical.
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+</a>
 
-### Continuous Improvement
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+</a>
 
-Technology changes constantly. Our systems and processes should evolve with it.
+</p>
 
-### Business Value
+<h3 align="left">🗄️ Databases & Backend</h3>
 
-Technology should ultimately solve a problem, improve an experience, reduce complexity, or create a new opportunity.
+<p align="left">
 
----
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+</a>
 
-# 🌍 Our Vision
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+</a>
 
-We envision a future where businesses of every size can access reliable, scalable, and intelligently engineered technology.
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+</a>
 
-Our goal is to build solutions that bridge the gap between ideas and execution — helping businesses move from concepts to functioning digital products and scalable technology platforms.
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
+</a>
 
----
-
-# 🎯 Our Mission
-
-To engineer practical technology solutions that combine reliability, innovation, scalability, and simplicity.
-
-We aim to help businesses:
-
-- Build better digital products
-- Automate repetitive processes
-- Modernize their infrastructure
-- Adopt cloud technologies
-- Use AI meaningfully
-- Improve operational efficiency
-- Create better digital experiences
-- Scale their technology with confidence
+</p>
 
 ---
 
-# 🤝 Working With Us
+<h2 align="left">🏗️ How We Build</h2>
 
-Whether you are starting with an idea, modernizing an existing system, or looking to improve your technology infrastructure, we approach every project around the actual problem that needs to be solved.
+<p align="left">
+🔎 <b>Understand</b> — We start by understanding the business problem, users, requirements, and objectives.
+</p>
 
-**Our approach:**
+<p align="left">
+📐 <b>Design</b> — We define the architecture, technology stack, workflows, interfaces, and infrastructure.
+</p>
 
-**Understand → Design → Build → Integrate → Deploy → Scale**
+<p align="left">
+💻 <b>Build</b> — We develop the solution using practical and maintainable engineering practices.
+</p>
 
-We believe the right technology starts with understanding the right problem.
+<p align="left">
+🧪 <b>Test</b> — We validate functionality, performance, reliability, and security.
+</p>
 
----
+<p align="left">
+🚀 <b>Deploy</b> — We move the application into a reliable production environment.
+</p>
 
-# 👨‍💻 Open Source & Collaboration
+<p align="left">
+📊 <b>Monitor</b> — We observe system performance and identify opportunities for improvement.
+</p>
 
-We believe collaboration is an important part of building better technology.
-
-Our GitHub organization may include:
-
-- Open-source projects
-- Developer tools
-- Utilities
-- Experiments
-- Research projects
-- Technical demonstrations
-- Reusable components
-- Internal projects released for public use
-
-If a project is open for contribution, check its repository documentation for contribution guidelines.
-
----
-
-# 📫 Connect With Us
-
-### 🌐 Website
-
-[https://softrenix.com](https://softrenix.com)
-
-### 💼 LinkedIn
-
-Softrenix Technologies
-
-### 📧 Email
-
-[info@softrenix.com](mailto:info@softrenix.com)
-
-### 💻 GitHub
-
-[https://github.com/Softrenix-Technologies](https://github.com/Softrenix-Technologies)
+<p align="left">
+📈 <b>Scale</b> — We evolve the technology as the business, users, and requirements grow.
+</p>
 
 ---
 
-# 🚀 Let's Build Something Meaningful
+<h2 align="left">🚀 What We're Building</h2>
 
-Have an idea, a business problem, or a system that needs to be built?
+<p align="left">
+🌐 Modern Web & SaaS Applications<br>
+☁️ Cloud-native Infrastructure<br>
+⚙️ DevOps & Deployment Automation<br>
+🤖 AI-powered Applications & Automation<br>
+📊 Intelligent Data & Monitoring Systems<br>
+🔄 Business Process Automation<br>
+📱 Web & Mobile Digital Experiences<br>
+🛒 E-Commerce Platforms<br>
+🧩 APIs & Backend Systems<br>
+🧪 Experimental & Research-driven Technology
+</p>
 
-Let's turn it into technology.
+---
 
-**Softrenix Technologies**
+<h2 align="left">📂 Our GitHub</h2>
 
-*Engineering Beyond Boundaries.*
+<p align="left">
+Our GitHub organization is where we share and develop software projects, experiments, tools, infrastructure configurations, and technology research.
+</p>
+
+<p align="left">
+Repositories may include:
+</p>
+
+<p align="left">
+🔹 Production Applications<br>
+🔹 Open Source Projects<br>
+🔹 Developer Tools<br>
+🔹 Cloud & DevOps Projects<br>
+🔹 AI & ML Experiments<br>
+🔹 Automation Tools<br>
+🔹 APIs & Backend Systems<br>
+🔹 Research & Prototypes
+</p>
+
+<p align="left">
+Each project may have its own documentation, architecture, installation instructions, and contribution guidelines.
+</p>
+
+---
+
+<h2 align="left">🌱 Engineering Philosophy</h2>
+
+<p align="left">
+💡 <b>Technology should solve problems.</b><br>
+We focus on the actual problem before selecting the technology.
+</p>
+
+<p align="left">
+⚡ <b>Keep it practical.</b><br>
+We prefer solutions that are understandable, maintainable, and useful in the real world.
+</p>
+
+<p align="left">
+📈 <b>Build for growth.</b><br>
+Applications and infrastructure should be capable of evolving with their users and requirements.
+</p>
+
+<p align="left">
+🔐 <b>Think about security.</b><br>
+Security, reliability, and responsible engineering should be considered throughout the development lifecycle.
+</p>
+
+<p align="left">
+🤖 <b>Automate intelligently.</b><br>
+Automation should reduce unnecessary work and improve reliability rather than simply adding complexity.
+</p>
+
+---
+
+<h2 align="left">🤝 Collaboration</h2>
+
+<p align="left">
+We believe great technology is built through collaboration, experimentation, and continuous learning.
+</p>
+
+<p align="left">
+Our organization brings together developers, engineers, designers, cloud professionals, and technology enthusiasts working toward a common goal:
+</p>
+
+<p align="center">
+<b>Build technology that creates meaningful value.</b>
+</p>
+
+---
+
+<h2 align="left">📫 Connect With Softrenix</h2>
+
+<p align="left">
+
+<a href="https://softrenix.com" target="_blank">
+<img src="https://img.shields.io/badge/Website-softrenix.com-086CFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
+
+<a href="mailto:info@softrenix.com">
+<img src="https://img.shields.io/badge/Email-info%40softrenix.com-25A4FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+<p align="left">
+🌐 <b>Website:</b> https://softrenix.com<br>
+💼 <b>LinkedIn:</b> Softrenix Technologies<br>
+📧 <b>Email:</b> info@softrenix.com
+</p>
+
+---
+
+<h2 align="center">🚀 Engineering Beyond Boundaries</h2>
+
+<p align="center">
+<b>Building • Automating • Integrating • Scaling</b>
+</p>
+
+<p align="center">
+<i>Built on Reliability and Excellence, driven by New ideas and Innovation, with Limitless Possibilities.</i>
+</p>
+
+<p align="center">
+© Softrenix Technologies
+</p>
