@@ -1,1015 +1,469 @@
-![Softrenix Technologies](https://raw.githubusercontent.com/Softrenix-Technologies/.github/main/profile/softrenix-github-banner.png)
-
-<h1 align="center">Softrenix Technologies</h1>
-
-<h3 align="center">🚀 Engineering Beyond Boundaries</h3>
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 
 <p align="center">
-<b>Software • Cloud • DevOps • AI • Automation • Web • Mobile • E-Commerce</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1E42,50:086CFF,100:25A4FF&height=260&section=header&text=Softrenix%20Technologies&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Engineering%20Beyond%20Boundaries&descSize=22&descAlignY=58" alt="Softrenix Technologies" width="100%" />
 </p>
 
 <p align="center">
-<a href="https://softrenix.com">
-<img src="https://img.shields.io/badge/🌐%20Website-softrenix.com-086CFF?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="mailto:info@softrenix.com">
-<img src="https://img.shields.io/badge/✉️%20Email-info%40softrenix.com-0D1E42?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/company/softrenix-technologies/">
-<img src="https://img.shields.io/badge/LinkedIn-Softrenix%20Technologies-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-
-<h2 align="center">🌐 Who We Are</h2>
-
-<p align="center">
-<b>Softrenix Technologies</b> is a software development and technology company building
-<br>
-<b>reliable, scalable, and innovative digital solutions</b> for modern businesses.
+  <a href="https://softrenix.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=25A4FF&center=true&vCenter=true&width=760&height=50&lines=Custom+Software+%26+SaaS+Platforms;Web+%26+Mobile+Applications;Cloud+%26+DevOps+Engineering;AI+%26+Intelligent+Automation;E-Commerce+That+Scales;From+Idea+to+Production+%F0%9F%9A%80" alt="Typing animation of Softrenix services" />
+  </a>
 </p>
 
 <p align="center">
-We combine engineering, cloud infrastructure, modern application development,
-<br>
-AI, automation, and DevOps to turn ideas into technology that delivers.
+  <b>Software • Cloud • DevOps • AI • Automation • Web • Mobile • E-Commerce</b>
 </p>
 
 <p align="center">
-💡 <b>We don't build technology just for the sake of technology.</b><br>
-We build it to solve problems, improve processes, and create possibilities.
+  <a href="mailto:info@softrenix.com?subject=New%20Project%20Inquiry&body=Hi%20Softrenix%20team%2C%0A%0AProject%20idea%3A%0ABudget%20range%3A%0ATimeline%3A%0A">
+    <img src="https://img.shields.io/badge/🚀%20Start%20Your%20Project-086CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Start your project" />
+  </a>
+  &nbsp;
+  <a href="https://softrenix.com">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Website-0D1E42?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/softrenix-technologies/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Softrenix-Technologies?tab=repositories">
+    <img src="https://img.shields.io/badge/Our%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:086CFF,100:25A4FF&height=3" width="100%" alt="" />
 
-<h2 align="center">💡 What We Do</h2>
+<!-- ═══════════════════════════ WHO WE ARE ═══════════════════════════ -->
+
+<h2 align="center">🌐 Technology That Solves Problems, Not Creates Them</h2>
 
 <p align="center">
-We design, develop, deploy, and maintain technology solutions across the complete digital lifecycle.
+  <b>Softrenix Technologies</b> is a software development and technology company building<br>
+  <b>reliable, scalable, and practical digital solutions</b> for modern businesses.
+</p>
+
+<p align="center">
+  We combine software engineering, cloud infrastructure, AI, automation and DevOps<br>
+  to turn ideas and business requirements into technology that delivers real-world value.
+</p>
+
+<p align="center">
+  💡 <i>We don't build technology for its own sake. We build it to solve problems, improve processes, and create possibilities.</i>
+</p>
+
+<!-- ═══════════════════════════ WHY US ═══════════════════════════ -->
+
+<h2 align="center">⚡ Why Work With Us</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h1>🔒</h1>
+      <h3>Reliable</h3>
+      Systems that work consistently and predictably, in production.
+    </td>
+    <td align="center" width="25%">
+      <h1>📈</h1>
+      <h3>Scalable</h3>
+      Architecture designed to grow with your users and your business.
+    </td>
+    <td align="center" width="25%">
+      <h1>🛡️</h1>
+      <h3>Secure by Design</h3>
+      Security is part of development from day one, not an afterthought.
+    </td>
+    <td align="center" width="25%">
+      <h1>🎯</h1>
+      <h3>Business-Focused</h3>
+      Every decision is tied to solving a real problem and creating value.
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════════════════ SERVICES ═══════════════════════════ -->
+
+<h2 align="center">💡 What We Build</h2>
+
+<p align="center">
+  Design, development, deployment and maintenance across the <b>complete digital lifecycle</b>.
 </p>
 
 <table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-<h2>💻</h2>
-
-<h3>Software Development</h3>
-
-<p>
-Custom software designed around specific business requirements.
-</p>
-
-<p>
-<b>We build:</b><br>
-SaaS & PaaS Platforms<br>
-Business Applications<br>
-Enterprise Software<br>
-Backend Systems<br>
-REST APIs<br>
-Microservices
-</p>
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🌐</h2>
-
-<h3>Web Development</h3>
-
-<p>
-Modern websites and web applications built for performance and scalability.
-</p>
-
-<p>
-<b>We build:</b><br>
-Business Websites<br>
-Web Applications<br>
-Admin Dashboards<br>
-Customer Portals<br>
-SaaS Interfaces<br>
-Progressive Web Apps
-</p>
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>📱</h2>
-
-<h3>Mobile Development</h3>
-
-<p>
-Mobile applications designed for modern users and connected services.
-</p>
-
-<p>
-<b>We build:</b><br>
-Android Apps<br>
-iOS Apps<br>
-Cross-Platform Apps<br>
-Mobile APIs<br>
-Real-Time Applications<br>
-Backend Integrations
-</p>
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🛒</h2>
-
-<h3>E-Commerce</h3>
-
-<p>
-Digital commerce platforms focused on customer experience and growth.
-</p>
-
-<p>
-<b>We build:</b><br>
-Online Stores<br>
-Product Systems<br>
-Order Management<br>
-Payment Integration<br>
-Inventory Systems<br>
-Customer Portals
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<h2>☁️</h2>
-
-<h3>Cloud Services</h3>
-
-<p>
-Cloud infrastructure designed for reliability, performance, and scalability.
-</p>
-
-<p>
-<b>We provide:</b><br>
-Cloud Architecture<br>
-AWS Infrastructure<br>
-Cloud Migration<br>
-Storage & Compute<br>
-Cloud Databases<br>
-Cost Optimization
-</p>
-
-</td>
-
-<td align="center">
-
-<h2>⚙️</h2>
-
-<h3>DevOps & Infrastructure</h3>
-
-<p>
-Automated development, deployment, and infrastructure workflows.
-</p>
-
-<p>
-<b>We provide:</b><br>
-CI/CD Pipelines<br>
-Docker & Containers<br>
-Infrastructure as Code<br>
-Server Management<br>
-Monitoring<br>
-Deployment Automation
-</p>
-
-</td>
-
-<td align="center">
-
-<h2>🤖</h2>
-
-<h3>AI & ML</h3>
-
-<p>
-Practical AI and machine learning solutions for real-world applications.
-</p>
-
-<p>
-<b>We build:</b><br>
-AI Applications<br>
-LLM Integrations<br>
-AI Assistants<br>
-ML Systems<br>
-Recommendation Systems<br>
-Intelligent Analytics
-</p>
-
-</td>
-
-<td align="center">
-
-<h2>🔄</h2>
-
-<h3>Automation</h3>
-
-<p>
-Automated workflows that reduce repetitive work and improve efficiency.
-</p>
-
-<p>
-<b>We automate:</b><br>
-Business Workflows<br>
-Data Processing<br>
-API Integrations<br>
-Reporting<br>
-Notifications<br>
-Scheduled Tasks
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<h2>🧠</h2>
-
-<h3>IT Consulting</h3>
-
-<p>
-Technology planning and engineering guidance for growing businesses.
-</p>
-
-<p>
-<b>We help with:</b><br>
-Technology Strategy<br>
-System Architecture<br>
-Cloud Planning<br>
-Digital Transformation<br>
-Application Modernization<br>
-Infrastructure Planning
-</p>
-
-</td>
-
-<td align="center">
-
-<h2>🚀</h2>
-
-<h3>Hosting & Deployment</h3>
-
-<p>
-Reliable production environments for applications and digital platforms.
-</p>
-
-<p>
-<b>We handle:</b><br>
-Application Deployment<br>
-Linux Servers<br>
-Nginx Configuration<br>
-Domain & DNS<br>
-SSL/TLS<br>
-Production Setup
-</p>
-
-</td>
-
-<td align="center">
-
-<h2>🔐</h2>
-
-<h3>Security & Reliability</h3>
-
-<p>
-Engineering practices focused on protecting applications and infrastructure.
-</p>
-
-<p>
-<b>We focus on:</b><br>
-Secure Development<br>
-Access Control<br>
-Server Security<br>
-Authentication<br>
-Data Protection<br>
-System Reliability
-</p>
-
-</td>
-
-<td align="center">
-
-<h2>📊</h2>
-
-<h3>Monitoring & Optimization</h3>
-
-<p>
-Visibility and optimization for applications, infrastructure, and cloud systems.
-</p>
-
-<p>
-<b>We provide:</b><br>
-System Monitoring<br>
-Application Monitoring<br>
-Performance Analysis<br>
-Cloud Monitoring<br>
-Cost Analysis<br>
-Optimization
-</p>
-
-</td>
-
-</tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>💻 Software Development</h3>
+      <sub>Custom software built around your workflows</sub><br><br>
+      SaaS & PaaS Platforms<br>
+      Business & Enterprise Apps<br>
+      Backend Systems<br>
+      REST APIs & Microservices
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🌐 Web Development</h3>
+      <sub>Fast, responsive, scalable web experiences</sub><br><br>
+      Business Websites<br>
+      Web Applications<br>
+      Admin Dashboards<br>
+      Customer Portals & PWAs
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>📱 Mobile Development</h3>
+      <sub>Apps for modern Android & iOS users</sub><br><br>
+      Android & iOS Apps<br>
+      Cross-Platform Apps<br>
+      Mobile APIs<br>
+      Backend Integrations
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>☁️ Cloud Services</h3>
+      <sub>Infrastructure built for reliability and growth</sub><br><br>
+      Cloud Architecture<br>
+      AWS Infrastructure<br>
+      Cloud Migration<br>
+      Cost Optimization
+    </td>
+    <td align="center" valign="top">
+      <h3>⚙️ DevOps & Infrastructure</h3>
+      <sub>Ship faster with automated workflows</sub><br><br>
+      CI/CD Pipelines<br>
+      Docker & Containers<br>
+      Infrastructure as Code<br>
+      Monitoring & Observability
+    </td>
+    <td align="center" valign="top">
+      <h3>🤖 AI & Machine Learning</h3>
+      <sub>Practical AI focused on business results</sub><br><br>
+      AI-Powered Applications<br>
+      LLM Integrations<br>
+      AI Assistants<br>
+      Recommendation Systems
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>🔄 Automation</h3>
+      <sub>Eliminate repetitive work</sub><br><br>
+      Business Workflows<br>
+      API Integrations<br>
+      Automated Reporting<br>
+      Scheduled Tasks
+    </td>
+    <td align="center" valign="top">
+      <h3>🛒 E-Commerce</h3>
+      <sub>Digital commerce built to convert and scale</sub><br><br>
+      Online Stores<br>
+      Order & Inventory Systems<br>
+      Payment Integration<br>
+      Customer Portals
+    </td>
+    <td align="center" valign="top">
+      <h3>🧠 IT Consulting</h3>
+      <sub>Strategy and architecture guidance</sub><br><br>
+      Technology Strategy<br>
+      System Architecture<br>
+      Digital Transformation<br>
+      Application Modernization
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>🚀 Hosting & Deployment</h3>
+      <sub>Production environments done right</sub><br><br>
+      Application Deployment<br>
+      Linux Servers & Nginx<br>
+      Domain, DNS & SSL/TLS<br>
+      Production Setup
+    </td>
+    <td align="center" valign="top">
+      <h3>🔐 Security & Reliability</h3>
+      <sub>Protect your apps and infrastructure</sub><br><br>
+      Secure Development<br>
+      Authentication & Access Control<br>
+      Server Security<br>
+      Data Protection
+    </td>
+    <td align="center" valign="top">
+      <h3>📊 Monitoring & Optimization</h3>
+      <sub>Visibility into everything you run</sub><br><br>
+      System & App Monitoring<br>
+      Performance Analysis<br>
+      Cloud Monitoring<br>
+      Cost Analysis
+    </td>
+  </tr>
 </table>
 
----
-
-<h2 align="center">🧩 Our Services</h2>
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/Software%20Development-086CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web%20Development-25A4FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mobile%20Development-086CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/E--Commerce-25A4FF?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Cloud%20Services-086CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DevOps%20%26%20Infrastructure-25A4FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-086CFF?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Automation-25A4FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IT%20Consulting-086CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hosting%20%26%20Deployment-25A4FF?style=for-the-badge" />
-
+  <a href="mailto:info@softrenix.com?subject=Service%20Inquiry">
+    <img src="https://img.shields.io/badge/Need%20something%20custom%3F%20Let's%20talk%20→-25A4FF?style=for-the-badge" alt="Let's talk" />
+  </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:086CFF,100:25A4FF&height=3" width="100%" alt="" />
 
-<h2 align="center">🛠️ Technology Stack</h2>
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+
+<h2 align="center">🛠️ Our Technology Stack</h2>
 
 <p align="center">
-Our technology choices depend on the project, requirements, scalability,
-performance, and long-term maintainability.
+  We pick technology based on <b>requirements, scalability, performance and long-term maintainability</b>.
 </p>
 
----
-
-<h3 align="center">💻 Programming Languages</h3>
-
+<h4 align="center">💻 Languages</h4>
 <p align="center">
-
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
-</a>
-
-<a href="https://www.php.net/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
-</a>
-
-<a href="https://go.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-</a>
-
-<a href="https://en.cppreference.com/w/c">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
-</a>
-
-<a href="https://isocpp.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=py,js,ts,php,go,java,c,cpp,bash&perline=9" alt="Languages" />
 </p>
 
----
-
-<h3 align="center">🌐 Frontend & Web Development</h3>
-
+<h4 align="center">🌐 Frontend</h4>
 <p align="center">
-
-<a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-</a>
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-</a>
-
-<a href="https://nextjs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/>
-</a>
-
-<a href="https://getbootstrap.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&perline=8" alt="Frontend" />
 </p>
 
----
-
-<h3 align="center">⚙️ Backend & API Development</h3>
-
+<h4 align="center">⚙️ Backend & APIs</h4>
 <p align="center">
-
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
-</a>
-
-<a href="https://expressjs.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50"/>
-</a>
-
-<a href="https://www.djangoproject.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/>
-</a>
-
-<a href="https://laravel.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50"/>
-</a>
-
-<a href="https://spring.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,laravel,spring&perline=7" alt="Backend" />
 </p>
 
----
-
-<h3 align="center">📱 Mobile Development</h3>
-
+<h4 align="center">📱 Mobile</h4>
 <p align="center">
-
-<a href="https://developer.android.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50"/>
-</a>
-
-<a href="https://kotlinlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50"/>
-</a>
-
-<a href="https://flutter.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/>
-</a>
-
-<a href="https://reactnative.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-</a>
-
-<a href="https://developer.apple.com/swift/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="50"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,react,swift&perline=5" alt="Mobile" />
 </p>
 
----
-
-<h3 align="center">☁️ Cloud Platforms</h3>
-
+<h4 align="center">☁️ Cloud, DevOps & Infrastructure</h4>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,nginx,linux,ubuntu&perline=11" alt="Cloud and DevOps" />
+</p>
 
-<a href="https://aws.amazon.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
-</a>
+<h4 align="center">🗄️ Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" alt="Databases" />
+</p>
 
-<a href="https://azure.microsoft.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="55"/>
-</a>
+<h4 align="center">🤖 AI, ML & Monitoring</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,prometheus,grafana&perline=6" alt="AI and Monitoring" />
+</p>
 
-<a href="https://cloud.google.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="55"/>
-</a>
-
+<h4 align="center">🧪 Collaboration</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&perline=4" alt="Collaboration" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LLM%20Integration-086CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workflow%20Automation-25A4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20APIs-086CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Webhooks-25A4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD-086CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth-25A4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RBAC-086CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SSL%2FTLS-25A4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Payment%20Gateways-086CFF?style=flat-square" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:086CFF,100:25A4FF&height=3" width="100%" alt="" />
 
-<h3 align="center">⚙️ DevOps, CI/CD & Infrastructure</h3>
+<!-- ═══════════════════════════ PROCESS ═══════════════════════════ -->
+
+<h2 align="center">🏗️ How We Work</h2>
 
 <p align="center">
-
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
-</a>
-
-<a href="https://kubernetes.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50"/>
-</a>
-
-<a href="https://www.terraform.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50"/>
-</a>
-
-<a href="https://www.jenkins.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50"/>
-</a>
-
-<a href="https://github.com/features/actions">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="50"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-</a>
-
-<a href="https://nginx.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50"/>
-</a>
-
+  A practical engineering process, <b>from idea to production and beyond</b>.
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="16%"><h1>1️⃣</h1><b>Understand</b><br><sub>Requirements & the real problem</sub></td>
+    <td align="center" width="16%"><h1>2️⃣</h1><b>Plan</b><br><sub>Architecture & solution design</sub></td>
+    <td align="center" width="16%"><h1>3️⃣</h1><b>Build</b><br><sub>Design & development</sub></td>
+    <td align="center" width="16%"><h1>4️⃣</h1><b>Test</b><br><sub>Quality, performance & security</sub></td>
+    <td align="center" width="16%"><h1>5️⃣</h1><b>Deploy</b><br><sub>Production-ready launch</sub></td>
+    <td align="center" width="16%"><h1>6️⃣</h1><b>Improve</b><br><sub>Monitor & evolve continuously</sub></td>
+  </tr>
+</table>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/CI%2FCD-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Containerization-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Orchestration-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Infrastructure%20Automation-086CFF?style=flat-square"/>
-
+  <b>We don't just build software. We build software that keeps creating value after it goes live.</b>
 </p>
 
----
-
-<h3 align="center">🐧 Linux & Systems</h3>
-
-<p align="center">
-
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
-</a>
-
-<a href="https://www.redhat.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="50"/>
-</a>
-
-<a href="https://ubuntu.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="50"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">🗄️ Databases & Data</h3>
-
-<p align="center">
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-</a>
-
-<a href="https://redis.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">🤖 AI, Machine Learning & Data Science</h3>
-
-<p align="center">
-
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-</a>
-
-<a href="https://pytorch.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/>
-</a>
-
-<a href="https://www.tensorflow.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Generative%20AI-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Agents-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-25A4FF?style=flat-square"/>
-
-</p>
-
----
-
-<h3 align="center">🔄 Automation & Integration</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/REST%20APIs-086CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Integration-25A4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Workflow%20Automation-086CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Webhooks-25A4FF?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Task%20Automation-086CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Processing-25A4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automated%20Reporting-086CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scheduled%20Jobs-25A4FF?style=for-the-badge"/>
-
-</p>
-
----
-
-<h3 align="center">🛒 E-Commerce Technologies</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Payment%20Gateway-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Order%20Management-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Inventory%20Management-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Product%20Management-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Shopping%20Cart-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Customer%20Accounts-25A4FF?style=flat-square"/>
-
-</p>
-
----
-
-<h3 align="center">📊 Monitoring & Observability</h3>
-
-<p align="center">
-
-<a href="https://prometheus.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50"/>
-</a>
-
-<a href="https://grafana.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Application%20Monitoring-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Infrastructure%20Monitoring-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/CloudWatch-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Logging-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Performance%20Monitoring-086CFF?style=flat-square"/>
-
-</p>
-
----
-
-<h3 align="center">🔐 Security & Authentication</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Authentication-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Authorization-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/RBAC-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/OAuth-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/SSL%2FTLS-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Secrets%20Management-086CFF?style=flat-square"/>
-
-</p>
-
----
-
-<h3 align="center">🧪 Development & Collaboration</h3>
-
-<p align="center">
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Code%20Review-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/CI%2FCD-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agile%20Development-086CFF?style=flat-square"/>
-
-</p>
-
----
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-A selection of projects, platforms and engineering work from Softrenix Technologies.
+  A selection of platforms and engineering work from Softrenix Technologies.
 </p>
 
 <table align="center">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Project One</h3>
-
-<p align="center">
-<b>Web / SaaS Platform</b>
-</p>
-
-<p align="center">
-A modern scalable web platform designed to solve real-world business requirements.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Web-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/API-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud-086CFF?style=flat-square"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Softrenix-Technologies">
-<b>View Project →</b>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">☁️ Project Two</h3>
-
-<p align="center">
-<b>Cloud / DevOps</b>
-</p>
-
-<p align="center">
-Cloud infrastructure and deployment solution focused on automation and scalability.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-086CFF?style=flat-square"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Softrenix-Technologies">
-<b>View Project →</b>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 Project Three</h3>
-
-<p align="center">
-<b>AI / Automation</b>
-</p>
-
-<p align="center">
-Intelligent automation and AI-powered solution designed around practical business use cases.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automation-25A4FF?style=flat-square"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Softrenix-Technologies">
-<b>View Project →</b>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📱 Project Four</h3>
-
-<p align="center">
-<b>Web / Mobile Application</b>
-</p>
-
-<p align="center">
-A modern digital application focused on usability, performance and scalable architecture.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Application-086CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/API-25A4FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Database-086CFF?style=flat-square"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Softrenix-Technologies">
-<b>View Project →</b>
-</a>
-</p>
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🌐 Project One</h3>
+      <b>Web / SaaS Platform</b><br><br>
+      A modern scalable web platform designed around real-world business requirements.<br><br>
+      <img src="https://img.shields.io/badge/Web-086CFF?style=flat-square" />
+      <img src="https://img.shields.io/badge/API-25A4FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Cloud-086CFF?style=flat-square" /><br><br>
+      <a href="https://github.com/Softrenix-Technologies"><b>View Project →</b></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>☁️ Project Two</h3>
+      <b>Cloud / DevOps</b><br><br>
+      Cloud infrastructure and deployment solution focused on automation and scalability.<br><br>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/DevOps-086CFF?style=flat-square" /><br><br>
+      <a href="https://github.com/Softrenix-Technologies"><b>View Project →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 Project Three</h3>
+      <b>AI / Automation</b><br><br>
+      Intelligent automation designed around practical business use cases.<br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-086CFF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Automation-25A4FF?style=flat-square" /><br><br>
+      <a href="https://github.com/Softrenix-Technologies"><b>View Project →</b></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📱 Project Four</h3>
+      <b>Web / Mobile Application</b><br><br>
+      A modern digital application focused on usability, performance and scalable architecture.<br><br>
+      <img src="https://img.shields.io/badge/Application-086CFF?style=flat-square" />
+      <img src="https://img.shields.io/badge/API-25A4FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Database-086CFF?style=flat-square" /><br><br>
+      <a href="https://github.com/Softrenix-Technologies"><b>View Project →</b></a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-<a href="https://github.com/Softrenix-Technologies?tab=repositories">
-<b>🔎 Explore All Repositories →</b>
-</a>
+  <a href="https://github.com/Softrenix-Technologies?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎%20Explore%20All%20Repositories-086CFF?style=for-the-badge" alt="Explore all repositories" />
+  </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:086CFF,100:25A4FF&height=3" width="100%" alt="" />
 
-<h2 align="center">⚡ Our Approach</h2>
+<!-- ═══════════════════════════ PRINCIPLES ═══════════════════════════ -->
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/01%20Understand-086CFF?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/02%20Design-25A4FF?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/03%20Build-086CFF?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/04%20Deploy-25A4FF?style=for-the-badge"/>
-→
-<img src="https://img.shields.io/badge/05%20Scale-086CFF?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-<b>Understand the problem → Design the right solution → Build it → Deploy it → Scale it</b>
-</p>
-
----
-
-<h2 align="center">✨ What Drives Us</h2>
+<h2 align="center">🔐 Engineering Principles</h2>
 
 <table align="center">
-
-<tr>
-
-<td align="center">
-<h3>🔒</h3>
-<b>Reliability</b><br>
-Systems people can depend on.
-</td>
-
-<td align="center">
-<h3>📈</h3>
-<b>Scalability</b><br>
-Technology built to grow.
-</td>
-
-<td align="center">
-<h3>💡</h3>
-<b>Innovation</b><br>
-Ideas turned into solutions.
-</td>
-
-<td align="center">
-<h3>⚙️</h3>
-<b>Engineering</b><br>
-Technology built with purpose.
-</td>
-
-</tr>
-
+  <tr>
+    <td align="center" width="25%"><h1>✅</h1><b>Reliability First</b><br><sub>Systems should work consistently and predictably.</sub></td>
+    <td align="center" width="25%"><h1>🛡️</h1><b>Security by Design</b><br><sub>Considered throughout development, never bolted on.</sub></td>
+    <td align="center" width="25%"><h1>📈</h1><b>Scalability</b><br><sub>Solutions that evolve as requirements and users grow.</sub></td>
+    <td align="center" width="25%"><h1>🧩</h1><b>Simplicity</b><br><sub>Complexity needs a reason. We prefer clear, maintainable code.</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><h1>🤖</h1><b>Automation</b><br><sub>Repetitive work is automated wherever practical.</sub></td>
+    <td align="center"><h1>🔁</h1><b>Continuous Improvement</b><br><sub>Our systems and processes evolve with technology.</sub></td>
+    <td align="center"><h1>💼</h1><b>Business Value</b><br><sub>Solve a problem, improve an experience, create an opportunity.</sub></td>
+    <td align="center"><h1>🤝</h1><b>Collaboration</b><br><sub>Better technology is built together.</sub></td>
+  </tr>
 </table>
 
----
+<!-- ═══════════════════════════ VISION / MISSION ═══════════════════════════ -->
 
-<h2 align="center">🤝 Let's Build Something</h2>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🌍 Our Vision</h3>
+      A future where businesses of every size can access reliable, scalable, and intelligently engineered technology, bridging the gap between <b>ideas and execution</b>.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🎯 Our Mission</h3>
+      To engineer practical technology solutions that combine <b>reliability, innovation, scalability and simplicity</b>, so businesses can build, automate, modernize and scale with confidence.
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════════════════ FAQ ═══════════════════════════ -->
+
+<h2 align="center">❓ Frequently Asked Questions</h2>
+
+<details>
+<summary><b>💬 I only have an idea. Can you help me get started?</b></summary>
+<br>
+Yes. Whether you're starting with an idea, modernizing an existing system, or improving your infrastructure, we begin by understanding the actual problem that needs to be solved, then design, build and deploy the solution.
+</details>
+
+<details>
+<summary><b>🛠️ Do you handle everything from development to deployment?</b></summary>
+<br>
+Yes. We work across the full lifecycle: requirements, architecture, development, testing, deployment (servers, domains, SSL, CI/CD), and ongoing monitoring and improvement.
+</details>
+
+<details>
+<summary><b>☁️ Can you improve or migrate our existing system?</b></summary>
+<br>
+Yes. We help with application modernization, cloud migration, infrastructure optimization and digital transformation planning.
+</details>
+
+<details>
+<summary><b>🤖 How do you approach AI?</b></summary>
+<br>
+Practically. We focus on AI that solves a real business problem, such as assistants, automation, LLM integrations and recommendation systems, rather than technology for its own sake.
+</details>
+
+<details>
+<summary><b>👨‍💻 Do you contribute to open source?</b></summary>
+<br>
+Our GitHub organization includes open-source projects, developer tools, utilities, experiments and reusable components. If a project is open for contribution, check its repository documentation for guidelines.
+</details>
+
+<details>
+<summary><b>📩 How do I get in touch?</b></summary>
+<br>
+Email us at <a href="mailto:info@softrenix.com">info@softrenix.com</a> or visit <a href="https://softrenix.com">softrenix.com</a>. Tell us about your idea, problem or system and we'll take it from there.
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:086CFF,100:25A4FF&height=3" width="100%" alt="" />
+
+<!-- ═══════════════════════════ FINAL CTA ═══════════════════════════ -->
+
+<h2 align="center">🤝 Let's Build Something Meaningful</h2>
 
 <p align="center">
-Have an idea, business requirement, or technology challenge?
+  Have an idea, a business problem, or a system that needs to be built?<br>
+  <b>Let's turn it into a reliable digital solution.</b>
 </p>
 
 <p align="center">
-<b>Let's turn it into a reliable digital solution.</b>
+  <a href="mailto:info@softrenix.com?subject=New%20Project%20Inquiry&body=Hi%20Softrenix%20team%2C%0A%0AProject%20idea%3A%0ABudget%20range%3A%0ATimeline%3A%0A">
+    <img src="https://img.shields.io/badge/🚀%20Start%20Your%20Project%20Today-086CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Start your project today" />
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://softrenix.com">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Our%20Website-086CFF?style=for-the-badge" />
-</a>
-
-<a href="mailto:info@softrenix.com">
-<img src="https://img.shields.io/badge/✉️%20Get%20In%20Touch-0D1E42?style=for-the-badge" />
-</a>
-
-</p>
-
----
-
-<h3 align="center">🚀 Softrenix Technologies</h3>
-
-<p align="center">
-<b>Engineering Beyond Boundaries</b>
+  <a href="https://softrenix.com">
+    <img src="https://img.shields.io/badge/🌐%20Website-softrenix.com-0D1E42?style=for-the-badge" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="mailto:info@softrenix.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-info%40softrenix.com-25A4FF?style=for-the-badge" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/softrenix-technologies/">
+    <img src="https://img.shields.io/badge/LinkedIn-Softrenix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Softrenix-Technologies">
+    <img src="https://img.shields.io/badge/GitHub-Softrenix--Technologies-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-<i>
-Built on Reliability and Excellence, driven by New ideas and Innovation,
-with Limitless Possibilities.
-</i>
+  <i>Built on Reliability and Excellence, driven by New ideas and Innovation, with Limitless Possibilities.</i>
 </p>
+
 <p align="center">
-© Softrenix Technologies
+  <b>Softrenix Technologies</b> • Engineering Beyond Boundaries<br>
+  <sub>© Softrenix Technologies</sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25A4FF,50:086CFF,100:0D1E42&height=120&section=footer" width="100%" alt="" />
